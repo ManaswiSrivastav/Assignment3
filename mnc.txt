@@ -1,0 +1,7 @@
+Wipro Technologies
+Locations : 
+  1) Bengaluru
+  2) Chennai
+  3) Kolkata
+  4) Pune
+  5) Hyderbad
